@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="search">Search</string>
+    <string name="change_language">Change Language</string>
+    <string name="search_hint">Type username here …</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="key_reminder">Reminder</string>
+    <string name="appwidget_text">GITHUB USER</string>
+    <string name="empty_text">NO DATA</string>
+</resources>
